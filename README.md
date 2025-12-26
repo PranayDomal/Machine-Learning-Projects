@@ -46,3 +46,11 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, K-Means Clustering, StandardScaler
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Mall_Customers-KMeans)
+
+---
+
+## Feedback and Contact
+
+I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at domalpranay@gmail.com
+
+Enjoy exploring my machine learning projects!
