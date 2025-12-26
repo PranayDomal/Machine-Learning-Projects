@@ -32,19 +32,19 @@ This repository provides an overview of my key Machine Learning projects. Each p
 5. **Telco Customer Churn Prediction (Random Forest Classification)**
    - **Description:** Developed a customer churn prediction system using a Random Forest classifier to identify customers at risk of churn in a subscription-based telecom business. The project emphasizes business-aligned modeling, combining target encoding, out-of-bag (OOB) validation, and decision threshold optimization to prioritize early churn detection over raw accuracy.
    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, Target Encoding, OOB Validation
-   - Results: The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization. By optimizing the decision threshold to 0.35, churn recall improved to ~67%, aligning predictions with business priorities where missing a churner is more costly than a false alert. Feature importance analysis identified tenure, contract type, internet service, and online security as the strongest churn drivers.
+   - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization. By optimizing the decision threshold to 0.35, churn recall improved to ~67%, aligning predictions with business priorities where missing a churner is more costly than a false alert. Feature importance analysis identified tenure, contract type, internet service, and online security as the strongest churn drivers.
    - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
   
 6. **Linear Regression on Advertising Dataset**
     - **Description:** Applied Simple and Multiple Linear Regression to analyze how TV, Radio, and Newspaper advertising spend influence product sales, focusing on a correct, assumption-driven regression workflow and model interpretability.
-    - **Results:** TV advertising alone explained ~67% of sales variance (R² ≈ 0.68), while the Multiple Linear Regression model improved performance to R² ≈ 0.91, significantly reducing prediction error. TV and Radio emerged as strong predictors, whereas Newspaper showed minimal impact.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Statsmodels
+    - **Results:** TV advertising alone explained ~67% of sales variance (R² ≈ 0.68), while the Multiple Linear Regression model improved performance to R² ≈ 0.91, significantly reducing prediction error. TV and Radio emerged as strong predictors, whereas Newspaper showed minimal impact.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Advertising_Sales_Prediction)
   
 7. **Mall Customers Segmentation using K-Means Clustering**
     - **Description:** Applied K-Means clustering to segment mall customers based on annual income and spending behavior, to identify clear, behavior-driven customer groups using Elbow Method and Silhouette Analysis.
-    - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, K-Means Clustering, StandardScaler
+    - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Mall_Customers-KMeans)
 
 ---
