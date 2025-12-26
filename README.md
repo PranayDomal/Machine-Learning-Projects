@@ -14,6 +14,6 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Decision Tree Classifi
 **Results:**  
 Achieved 95.56% test accuracy, with perfect classification of Iris Setosa and minor confusion between Versicolor and Virginica. The model learned clear, biologically meaningful rules, identifying petal length and petal width as the most important features.
 
-🔗 **Project Link:** [View Repository]((https://github.com/PranayDomal/Desition_Tree_Iris_Datadet))
+🔗 **Project Link:** [View Repository](https://github.com/PranayDomal/Desition_Tree_Iris_Datadet)
 
 ---
