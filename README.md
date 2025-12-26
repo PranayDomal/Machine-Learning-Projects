@@ -49,8 +49,21 @@ This repository provides an overview of my key Machine Learning projects. Each p
 
 ---
 
+## Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Feature Selection & Scaling
+- Supervised & Unsupervised Learning
+- Model Evaluation & Interpretation
+- Business-Oriented Insights
+
+---
+
 ## Feedback and Contact
 
-I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via email at domalpranay@gmail.com
+I welcome any feedback, suggestions, or questions you may have about the projects or any kind of sponsorships for the repository. Feel free to reach out to me via 
+
+- GitHub: https://github.com/PranayDomal
+- LinkedIn: https://www.linkedin.com/in/pranay-domal-a641bb368
+- Email: domalpranay@gmail.com
 
 Enjoy exploring my machine learning projects!
