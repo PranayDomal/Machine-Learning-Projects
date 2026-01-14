@@ -35,18 +35,17 @@ This repository provides an overview of my key Machine Learning projects. Each p
    - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization.
    - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
   
-9. **Linear Regression on Advertising Dataset**
-    - **Description:** Applied Simple and Multiple Linear Regression to analyze how TV, Radio, and Newspaper advertising spending influences product sales, focusing on a correct, assumption-driven regression workflow and model interpretability.
-    - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Statsmodels
-    - **Results:** TV advertising alone explained ~67% of sales variance (R² ≈ 0.68), while the Multiple Linear Regression model improved performance to R² ≈ 0.91, significantly reducing prediction error. TV and Radio emerged as strong predictors, whereas Newspaper showed minimal impact.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Advertising_Sales_Prediction)
-
 10. **Mall Customers Segmentation using K-Means Clustering**
     - **Description:** Applied K-Means clustering to segment mall customers based on annual income and spending behavior, to identify clear, behavior-driven customer groups using Elbow Method and Silhouette Analysis.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, K-Means Clustering, StandardScaler
     - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Mall_Customers-KMeans)
-   
+
+9. [**Linear Regression on Advertising Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/LinearRegression-Advertising_Dataset)
+    - **Description:** Applied Simple and Multiple Linear Regression to analyze how TV, Radio, and Newspaper advertising spending influences product sales, focusing on a correct, assumption-driven regression workflow and model interpretability.
+    - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Statsmodels
+    - **Results:** TV advertising alone explained ~67% of sales variance (R² ≈ 0.68), while the Multiple Linear Regression model improved performance to R² ≈ 0.91, significantly reducing prediction error. TV and Radio emerged as strong predictors, whereas Newspaper showed minimal impact.
+
 6. [**Random Forest Classifier on the Palmer Penguins Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/RandomForest-Penguins_Dataset)
     - **Description:** Built a robust multiclass classification model using Random Forest to predict penguin species (Adelie, Chinstrap, Gentoo) based on morphological measurements and location.
     - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, ColumnTransformer, Pipeline
