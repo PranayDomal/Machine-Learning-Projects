@@ -23,7 +23,7 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
   
-7. [**Concrete Compressive Strength Prediction (Random Forest Regression)**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Concrete-Compressive-Strength-Prediction)
+7. [**Concrete Compressive Strength Prediction**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Concrete-Compressive-Strength-Prediction)
     - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor (OOB Validation)
     - **Results:** A baseline Linear Regression achieved a test R² of 0.63, while the final Random Forest model improved performance to 0.87 test R² with ~40% error reduction (RMSE: 9.8 → 5.83 MPa, MAE: 7.75 → 4.25 MPa).
