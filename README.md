@@ -23,17 +23,16 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
   
-7. **Concrete Compressive Strength Prediction (Random Forest Regression)**
-    - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
-    - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor (OOB Validation)
-    - **Results:** A baseline Linear Regression achieved a test R² of 0.63, while the final Random Forest model improved performance to 0.87 test R² with ~40% error reduction (RMSE: 9.8 → 5.83 MPa, MAE: 7.75 → 4.25 MPa).
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Concrete_Compressive_Strength_Prediction)
-  
 8. **Telco Customer Churn Prediction (Random Forest Classification)**
    - **Description:** Developed a customer churn prediction system using a Random Forest classifier to identify customers at risk of churn in a subscription-based telecom business.
    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, Target Encoding, OOB Validation
    - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization.
    - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
+  
+7. [**Concrete Compressive Strength Prediction (Random Forest Regression)**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Concrete-Compressive-Strength-Prediction)
+    - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
+    - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor (OOB Validation)
+    - **Results:** A baseline Linear Regression achieved a test R² of 0.63, while the final Random Forest model improved performance to 0.87 test R² with ~40% error reduction (RMSE: 9.8 → 5.83 MPa, MAE: 7.75 → 4.25 MPa).
   
 10. [**Mall Customers Segmentation using K-Means Clustering**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/K-Means-Mall_Customers)
     - **Description:** Applied K-Means clustering to segment mall customers based on annual income and spending behavior, to identify clear, behavior-driven customer groups using Elbow Method and Silhouette Analysis.
