@@ -11,7 +11,7 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Linear Regression achieved R² ≈ 0.58 with higher error, serving as an interpretable baseline, while the Random Forest model improved performance to R² ≈ 0.91, reducing MAE from ~$22.9K to ~$8.6K.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Salary-Prediction)
 
-2. **Loan Approval Prediction using Machine Learning**
+2. [**Loan Approval Prediction using Machine Learning**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Loan-Approval-Prediction)
     - **Description:** The aim of this project is to build and evaluate a machine learning model that predicts the likelihood of loan approval
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Logistic Regression, Decision Tree, Random Forest
     - **Results:** Logistic Regression achieved a realistic ROC–AUC of ~0.97 with balanced precision and recall, while tree-based models reached near-perfect scores by recovering deterministic policy rules embedded in the data.
