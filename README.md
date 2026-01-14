@@ -17,7 +17,7 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Logistic Regression achieved a realistic ROC–AUC of ~0.97 with balanced precision and recall, while tree-based models reached near-perfect scores by recovering deterministic policy rules embedded in the data.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Loan-Approval-Prediction)
 
-3. **Breast Cancer Classification using Machine Learning**
+3. [**Breast Cancer Classification using Machine Learning**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Breast-Cancer-Prediction )
     - **Description:** Developed and evaluated multiple baseline machine learning models to classify breast tumors as malignant or benign.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Logistic Regression, SVM (RBF), Random Forest, KNN
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
