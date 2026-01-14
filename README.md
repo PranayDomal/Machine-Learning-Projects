@@ -23,12 +23,6 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
   
-6. **Random Forest Classifier on the Palmer Penguins Dataset**
-    - **Description:** Built a robust multiclass classification model using Random Forest to predict penguin species (Adelie, Chinstrap, Gentoo) based on morphological measurements and location.
-    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, ColumnTransformer, Pipeline
-    - **Results:** Achieved 97.7% test accuracy with strong and balanced F1-scores across all three species.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Ramdom_Forest_Penguins_Dataset)
-  
 7. **Concrete Compressive Strength Prediction (Random Forest Regression)**
     - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor (OOB Validation)
@@ -52,6 +46,11 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, K-Means Clustering, StandardScaler
     - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Mall_Customers-KMeans)
+   
+6. [**Random Forest Classifier on the Palmer Penguins Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/RandomForest-Penguins_Dataset)
+    - **Description:** Built a robust multiclass classification model using Random Forest to predict penguin species (Adelie, Chinstrap, Gentoo) based on morphological measurements and location.
+    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, ColumnTransformer, Pipeline
+    - **Results:** Achieved 97.7% test accuracy with strong and balanced F1-scores across all three species.
 
 5. [**Decision Tree Classifier on Car Evaluation**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/DecisionTree-Car_Evalution)
     - **Description:** Developed a Decision Tree classification model to evaluate car acceptability (unacc, acc, good, vgood) based on categorical attributes such as safety, price, maintenance cost, and passenger capacity.
