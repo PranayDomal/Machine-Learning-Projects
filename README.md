@@ -23,12 +23,6 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
   
-8. **Telco Customer Churn Prediction (Random Forest Classification)**
-   - **Description:** Developed a customer churn prediction system using a Random Forest classifier to identify customers at risk of churn in a subscription-based telecom business.
-   - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, Target Encoding, OOB Validation
-   - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization.
-   - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
-  
 7. [**Concrete Compressive Strength Prediction (Random Forest Regression)**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Concrete-Compressive-Strength-Prediction)
     - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor (OOB Validation)
@@ -43,6 +37,12 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Description:** Applied Simple and Multiple Linear Regression to analyze how TV, Radio, and Newspaper advertising spending influences product sales, focusing on a correct, assumption-driven regression workflow and model interpretability.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Statsmodels
     - **Results:** TV advertising alone explained ~67% of sales variance (R² ≈ 0.68), while the Multiple Linear Regression model improved performance to R² ≈ 0.91, significantly reducing prediction error. TV and Radio emerged as strong predictors, whereas Newspaper showed minimal impact.
+
+8. [**Telco Customer Churn Prediction (Random Forest Classification)**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Telco-Customer-Churn-Prediction)
+   - **Description:** Developed a customer churn prediction system using a Random Forest classifier to identify customers at risk of churn in a subscription-based telecom business.
+   - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, Target Encoding, OOB Validation
+   - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization.
+   - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
 
 6. [**Random Forest Classifier on the Palmer Penguins Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/RandomForest-Penguins_Dataset)
     - **Description:** Built a robust multiclass classification model using Random Forest to predict penguin species (Adelie, Chinstrap, Gentoo) based on morphological measurements and location.
