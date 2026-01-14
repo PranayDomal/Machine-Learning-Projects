@@ -9,19 +9,16 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Description:** Built an end-to-end machine learning pipeline to predict employee salaries using professional and demographic attributes
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Linear Regression, Random Forest Regressor, ColumnTransformer, Pipeline
     - **Results:** Linear Regression achieved R² ≈ 0.58 with higher error, serving as an interpretable baseline, while the Random Forest model improved performance to R² ≈ 0.91, reducing MAE from ~$22.9K to ~$8.6K.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Salary-Prediction)
 
 2. [**Loan Approval Prediction using Machine Learning**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Loan-Approval-Prediction)
     - **Description:** The aim of this project is to build and evaluate a machine learning model that predicts the likelihood of loan approval
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Logistic Regression, Decision Tree, Random Forest
     - **Results:** Logistic Regression achieved a realistic ROC–AUC of ~0.97 with balanced precision and recall, while tree-based models reached near-perfect scores by recovering deterministic policy rules embedded in the data.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Loan-Approval-Prediction)
 
 3. [**Breast Cancer Classification using Machine Learning**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Breast-Cancer-Prediction )
     - **Description:** Developed and evaluated multiple baseline machine learning models to classify breast tumors as malignant or benign.
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Logistic Regression, SVM (RBF), Random Forest, KNN
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
   
 4. [**Concrete Compressive Strength Prediction**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/Concrete-Compressive-Strength-Prediction)
     - **Description:** Built a regression model to predict concrete compressive strength (MPa) using mix composition and curing age.
@@ -42,7 +39,6 @@ This repository provides an overview of my key Machine Learning projects. Each p
    - **Description:** Developed a customer churn prediction system using a Random Forest classifier to identify customers at risk of churn in a subscription-based telecom business.
    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest Classifier, Target Encoding, OOB Validation
    - **Results:** The final Random Forest model achieved an OOB score of ~0.76, ROC-AUC of ~0.84, and accuracy of ~0.78, demonstrating strong ranking performance and generalization.
-   - **Project Link:** [View Repository](https://github.com/PranayDomal/Telco_Customer_Churn_Prediction)
 
 8. [**Random Forest Classifier on the Palmer Penguins Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/RandomForest-Penguins_Dataset)
     - **Description:** Built a robust multiclass classification model using Random Forest to predict penguin species (Adelie, Chinstrap, Gentoo) based on morphological measurements and location.
