@@ -23,12 +23,6 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Results:** Baseline models achieved near-perfect ROC–AUC (~0.995) and ~97–98% accuracy without hyperparameter tuning.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Breast-Cancer-Prediction)
 
-4. **Decision Tree Classifier on Iris Dataset**
-    - **Description:** Built an interpretable Decision Tree classification model to predict Iris flower species (Setosa, Versicolor, Virginica).
-    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Decision Tree Classifier
-    - **Results:** Achieved 95.56% test accuracy, with perfect classification of Iris Setosa and minor confusion between Versicolor and Virginica.
-    - **Project Link:** [View Repository](https://github.com/PranayDomal/Desition_Tree_Iris_Datadet)
-
 5. **Decision Tree Classifier on Car Evaluation**
     - **Description:** Developed a Decision Tree classification model to evaluate car acceptability (unacc, acc, good, vgood) based on categorical attributes such as safety, price, maintenance cost, and passenger capacity.
     - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Graphviz, Decision Tree Classifier
@@ -64,6 +58,12 @@ This repository provides an overview of my key Machine Learning projects. Each p
     - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, K-Means Clustering, StandardScaler
     - **Results:** Identified 5 well-separated customer segments with a peak Silhouette Score of ~0.55, capturing distinct spending patterns such as high-value customers, careful high-income customers, and impulsive low-income spenders. The clusters are interpretable and suitable for targeted marketing strategies.
     - **Project Link:** [View Repository](https://github.com/PranayDomal/Mall_Customers-KMeans)
+   
+4. [**Decision Tree Classifier on Iris Dataset**](https://github.com/PranayDomal/Machine-Learning-Projects/tree/main/DecisionTree-Iris_Dataset)
+    - **Description:** Built an interpretable Decision Tree classification model to predict Iris flower species (Setosa, Versicolor, Virginica).
+    - **Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Decision Tree Classifier
+    - **Results:** Achieved 95.56% test accuracy, with perfect classification of Iris Setosa and minor confusion between Versicolor and Virginica.
+    - **Project Link:** [View Repository](https://github.com/PranayDomal/Desition_Tree_Iris_Datadet)
 
 ---
 
